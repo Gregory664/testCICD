@@ -37,5 +37,5 @@ jobs:
       - name: publish to git
         run: mvn -B clean deploy -DskipTests
         env:
-          GITHUB_TOKEN: ${{}}
+          GITHUB_TOKEN: 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
 
