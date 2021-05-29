@@ -3,5 +3,6 @@ public class Solution {
         System.out.println(Calculator.sum(2,2));
         System.out.println(Calculator.sum(2,2));
         System.out.println(Calculator.sum(2,2));
+        System.out.println(Calculator.sum(2,2));
     }
 }
